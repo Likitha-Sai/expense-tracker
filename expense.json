@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 10,
+        "category": "food",
+        "description": "",
+        "date": "2026-05-16"
+    },
+    {
+        "amount": 20,
+        "category": "stationary",
+        "description": "pens",
+        "date": "2026-05-23"
+    },
+    {
+        "amount": 30,
+        "category": "food",
+        "description": "choclates",
+        "date": "2026-05-21"
+    }
+]
